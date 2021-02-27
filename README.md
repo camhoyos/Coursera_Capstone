@@ -14,6 +14,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn
 Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods 
 
 Represent report and presentation on DBSCAN analysis.
+
 https://github.com/camhoyos/Coursera_DataScience_Capstone/blob/master/CH-Toronto%20Venue%20Cluster%20Analysis(doc).pdf
 
 https://github.com/camhoyos/Coursera_DataScience_Capstone/blob/master/CH-Toronto%20Venue%20Cluster%20Analysis(ppt).pdf
